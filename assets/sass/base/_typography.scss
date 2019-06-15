@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: $opensans;
+}
+
+h1{
+  @include relative-converter(font-size, rem, $xxx-large, 16);
+}
+
+h2{
+  @include relative-converter(font-size, rem, $xx-large, 16);
+}
+
+h3{
+  @include relative-converter(font-size, rem, $large, 16);
+}
+
+h4{
+  @include relative-converter(font-size, rem, $x-small, 16);
+}
+
+h5{
+  @include relative-converter(font-size, rem, $small, 16);
+}
+
+p{
+  @include relative-converter(font-size, rem, $x-small, 16);
+}

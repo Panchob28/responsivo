@@ -1,10 +1,93 @@
  //Ejercicio1
 
- nav{
-   background-color: $negro;
- }
-
- .navbar {
+ .nav__ejercicio1{
+   background-color: $blanco;
+   border: 2px solid $negro;
      margin: 1rem 3.2rem 1rem 2.5rem;
      padding: 2rem;
  }
+ //Ejercicio2
+
+ .nav__ejercicio2{
+   border: 2px solid $negro;
+   background-color: $blanco;
+   margin: 1rem 3.2rem 1rem 2.5rem;
+   padding: 2.5rem;
+ }
+ .ejercicio2__h1{
+   margin-left: 50%;
+ }
+
+//Ejercicio3
+
+.ejercicio3__img{
+  width: 90px;
+  border-radius: 127px;
+}
+
+.nav__ejercicio3_1{
+  text-align: center;
+  border: 2px solid $negro;
+  background-color: $blanco;
+  padding-top: 1px;
+  margin-top: 1rem;
+  height: 6rem;
+}
+
+.nav__ejercicio3_2{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  padding: 2rem;
+  margin-top: 1rem;
+  height: 6rem;
+}
+
+//Ejercicio4
+
+.nav__ejercicio4_1{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+  margin-left: 4rem;
+}
+
+.nav__ejercicio4_2{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+
+}
+
+.nav__ejercicio4_3{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+  margin-right: 4rem;
+}
+
+.nav__ejercicio4_h1{
+  font-weight: $extrabold;
+  text-align: center;
+  margin-top: 17px;
+}
+
+.nav__ejercicio4_h2{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.nav__ejercicio4_3_h3_1{
+  float: left;
+  margin-left: 1PX;
+}
+
+.nav__ejercicio4_3_h3_2{
+
+}
+
+.nav__ejercicio4_3{
+  text-align: center;
+}

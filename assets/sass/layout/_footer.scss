@@ -1,0 +1,43 @@
+//Ejercicio1
+
+.footer_ejercicio1{
+  border: 2px solid $negro;
+  margin-left: 2.3rem;
+  background-color: $blanco;
+  margin-right: 3.1rem;
+}
+
+//Ejercicio4
+
+.footer__ejercicio4_1{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+  margin-left: 4rem;
+  text-align: center;
+}
+
+.footer__ejercicio4_2{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.footer__ejercicio4_3{
+  border: 2px solid $negro;
+  background-color: $blanco;
+  height: 6rem;
+  margin-top: 1rem;
+  margin-right: 4rem;
+  text-align: center;
+}
+
+.footer__ejercicio4_3__img{
+  width: 85px;
+  margin-top: 4px;
+  border-radius: 100px;
+}

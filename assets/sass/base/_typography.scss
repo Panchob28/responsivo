@@ -11,14 +11,18 @@ h2{
 }
 
 h3{
-  @include relative-converter(font-size, rem, $large, 16);
+  @include relative-converter(font-size, rem, $x-large, 16);
 }
 
 h4{
-  @include relative-converter(font-size, rem, $x-small, 16);
+  @include relative-converter(font-size, rem, $large, 16);
 }
 
 h5{
+  @include relative-converter(font-size, rem, $medium, 16);
+}
+
+h6{
   @include relative-converter(font-size, rem, $small, 16);
 }
 

@@ -66,6 +66,9 @@
   height: 6rem;
   margin-top: 1rem;
   margin-right: 4rem;
+  padding-left: 6rem;
+    text-align: center;
+    padding-top: .5rem;
 }
 
 .nav__ejercicio4_h1{
@@ -81,7 +84,7 @@
 
 .nav__ejercicio4_3_h3_1{
   float: left;
-  margin-left: 1PX;
+  margin-left: 10PX;
 }
 
 .nav__ejercicio4_3_h3_2{
@@ -151,5 +154,19 @@
 }
 
 .navbar-light .navbar-toggler{
+  border-color: $blanco;
+}
+
+//Ejercicio7
+
+.ejercicio7_nav{
+  color: $blanco;
+  text-align: center;
+  background-color: $negro;
+  padding: 3rem 5.7rem;
+}
+
+.navbar-dark .navbar-toggler{
+  border-width: 1px;
   border-color: $blanco;
 }

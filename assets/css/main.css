@@ -9849,6 +9849,25 @@ p {
   margin-right: 17rem;
 }
 
+.ejercicio6_h1 {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+
+.ejercicio6_nav {
+  text-align: center;
+}
+
+.ejercicio6_div_2 {
+  border: 2px solid #000000;
+  height: auto;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #FFFFFF;
+}
+
 .footer_ejercicio1 {
   border: 2px solid #000000;
   margin-left: 2.3rem;
@@ -10032,6 +10051,48 @@ p {
 .ejercicio5_img {
   width: 100%;
   border: 2px solid #000000;
+}
+
+.ejercicio6_div {
+  height: 580px;
+}
+
+.ejercicio6_p {
+  margin-bottom: 2rem;
+}
+
+.ejercicio6_li {
+  margin-top: 1rem;
+}
+
+.ejercicio6_h12 {
+  margin-top: 11rem;
+}
+
+.ejercicio6_img {
+  width: 93%;
+  height: 50%;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ejercicio6_h13 {
+  margin-top: 1rem;
+  margin-left: 3rem;
+}
+
+.ejercicio6_p1 {
+  margin-bottom: 1rem;
+}
+
+.ejercicio6_row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.ejercicio6_h122 {
+  margin-left: 220px;
 }
 
 /*# sourceMappingURL=main.css.map */

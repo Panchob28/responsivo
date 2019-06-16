@@ -9887,6 +9887,31 @@ p {
   border-color: #FFFFFF;
 }
 
+.ejercicio8__nav {
+  background-color: #03c3eb;
+  border: 2px solid #000000;
+  width: 150px;
+}
+
+.ejercicio8__img1 {
+  width: 124px;
+  margin-bottom: 16px;
+  border-radius: 134px;
+  margin-left: 9px;
+  margin-top: 16px;
+}
+
+.ejercicio8_i {
+  font-size: 20px;
+  margin-top: 0.8rem;
+}
+
+.ejercicio8_div_i {
+  margin-left: 26px;
+  margin-top: 27px;
+  margin-bottom: 27px;
+}
+
 .ejercicio7_header {
   text-align: center;
 }
@@ -9935,6 +9960,32 @@ p {
   text-align: center;
 }
 
+.ejercicio8_footer {
+  background-color: #bebebe;
+  border: 2px solid #000000;
+  width: 100%;
+  padding-top: 2rem;
+}
+
+.ejercicio8__img5 {
+  width: 84%;
+  margin-left: 1rem;
+}
+
+.ejercicio8_h2 {
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+
+.ejercicio8_hr1 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.ejercicio8_h4 {
+  margin-left: 15px;
+}
+
 .ejercicio1_container {
   margin-left: 1.5rem;
   width: 96%;
@@ -9957,9 +10008,7 @@ p {
 }
 
 .ejercicio2_container {
-  width: 96%;
-  padding-right: 0px;
-  padding-left: 14px;
+  width: 100%;
 }
 
 .ejercicio2__h2 {
@@ -10055,14 +10104,14 @@ p {
 .ejercicio4__div1 {
   border: 2px solid #000000;
   background-color: #FFFFFF;
-  width: 1193px;
+  width: 1221px;
   height: 454px;
-  margin-left: 79px;
+  margin-left: 66px;
   margin-top: 1rem;
 }
 
 .ejercicio4_img {
-  width: 1189px;
+  width: 1217px;
   height: 450px;
   position: absolute;
   z-index: 1;
@@ -10147,6 +10196,59 @@ p {
   padding-right: 45px;
   margin-top: 50px;
   padding-left: 45px;
+}
+
+.ejercicio8_hed {
+  margin-top: 3rem;
+  padding-left: 75px;
+}
+
+.ejercicio8_h1 {
+  font-size: 55px;
+  color: #e74c3c;
+  margin-top: 1rem;
+}
+
+.ejercicio8_img2 {
+  width: 100%;
+}
+
+.ejercicio8_img21 {
+  width: 100%;
+}
+
+.ejercicio8_h31 {
+  padding-right: 100px;
+}
+
+.ejercicio8_div2 {
+  padding-right: 100px;
+  margin-top: 1rem;
+}
+
+.ejercicio8_hr {
+  margin-top: 2rem;
+  border: 12;
+  width: 800px;
+  background-color: black;
+}
+
+.ejercicio8_img3 {
+  width: 100%;
+}
+
+.ejercicio8_div_h3 {
+  text-align: right;
+}
+
+.ejercicio8_div_h1 {
+  text-align: center;
+  font-size: 200px;
+  color: #e74c3c;
+}
+
+.ejercicio8_h11 {
+  font-size: 150px;
 }
 
 /*# sourceMappingURL=main.css.map */

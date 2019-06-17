@@ -10251,4 +10251,91 @@ p {
   font-size: 150px;
 }
 
+.ejercicio9_section {
+  background-image: url("../img/jardin.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.ejercicio9_h1 {
+  position: absolute;
+  font-weight: 700;
+  font-size: 14rem;
+  padding-left: 4rem;
+  padding-top: 1rem;
+  color: #e74c3c;
+}
+
+.ejercicio9_h3 {
+  float: left;
+}
+
+.ejercicio9_div1 {
+  border-radius: 100px;
+  background-color: rgba(144, 152, 160, 0.6);
+  padding-right: 1px;
+  width: 160px;
+  margin-left: 1rem;
+  color: #FFFFFF;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 517px;
+}
+
+.ejercicio9_div2 {
+  margin-bottom: 1.3rem;
+  margin-top: 175px;
+  width: 414px;
+  background-color: rgba(144, 152, 160, 0.6);
+  margin-left: 2rem;
+}
+
+.ejercicio9_div3 {
+  position: absolute;
+  background-color: rgba(147, 191, 220, 0.6);
+  width: 200px;
+  height: 100%;
+  left: 300px;
+}
+
+.ejercicio9_div33 {
+  position: absolute;
+  background-color: rgba(147, 191, 220, 0.6);
+  width: 200px;
+  height: 200%;
+  left: 300px;
+}
+
+.ejercicio9_h33 {
+  margin-top: 460px;
+  margin-right: 17px;
+}
+
+.ejercicio9_h11 {
+  position: absolute;
+  font-weight: 700;
+  font-size: 7rem;
+  padding-left: 4rem;
+  padding-top: 1rem;
+  color: #e74c3c;
+}
+
+.ejercicio9_div11 {
+  border-radius: 100px;
+  background-color: rgba(144, 152, 160, 0.6);
+  padding-right: 1px;
+  width: 160px;
+  margin-left: 11rem;
+  color: #FFFFFF;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 45px;
+}
+
+.ejercicio9_h34 {
+  margin-left: 210px;
+  margin-top: 278px;
+}
+
 /*# sourceMappingURL=main.css.map */

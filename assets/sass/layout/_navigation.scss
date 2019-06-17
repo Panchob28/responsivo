@@ -197,3 +197,54 @@
   margin-top: 27px;
   margin-bottom: 27px;
 }
+
+//ejercicio10
+
+.ejercicio10_img{
+  height: 900px;
+}
+
+.ejercicio10_i{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.ejercicio10_ul{
+  margin-top: 20px;
+  margin-right: 80px;
+
+}
+
+.ejercicio10_hr{
+  margin-right: 3rem;
+  border: 12;
+  width: 300px;
+  background-color: $blanco;
+}
+
+.ejercicio10_a{
+  color: $blanco;
+  margin-left: 20px;
+}
+
+.ejercicio10_div1{
+  color: $blanco;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  padding-top: 25px;
+  padding-left: 47px;
+  padding-right: 145px;
+  padding-bottom: 10px;
+  width: 495px;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  margin-left: 856px;
+}
+
+.ejercicio10_div{
+  text-align: right;
+  color: $blanco;
+  margin-top: 140px;
+  margin-right: 145px;
+}

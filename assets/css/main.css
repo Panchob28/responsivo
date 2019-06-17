@@ -9912,6 +9912,54 @@ p {
   margin-bottom: 27px;
 }
 
+.ejercicio10_img {
+  height: 900px;
+}
+
+.ejercicio10_i {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.ejercicio10_ul {
+  margin-top: 20px;
+  margin-right: 80px;
+}
+
+.ejercicio10_hr {
+  margin-right: 3rem;
+  border: 12;
+  width: 300px;
+  background-color: #FFFFFF;
+}
+
+.ejercicio10_a {
+  color: #FFFFFF;
+  margin-left: 20px;
+}
+
+.ejercicio10_div1 {
+  color: #FFFFFF;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  padding-top: 25px;
+  padding-left: 47px;
+  padding-right: 145px;
+  padding-bottom: 10px;
+  width: 495px;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  margin-left: 856px;
+}
+
+.ejercicio10_div {
+  text-align: right;
+  color: #FFFFFF;
+  margin-top: 140px;
+  margin-right: 145px;
+}
+
 .ejercicio7_header {
   text-align: center;
 }
@@ -10336,6 +10384,13 @@ p {
 .ejercicio9_h34 {
   margin-left: 210px;
   margin-top: 278px;
+}
+
+.ejercicio10_img {
+  background-image: url("../img/chapel-4245437_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
 }
 
 /*# sourceMappingURL=main.css.map */

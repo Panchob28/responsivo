@@ -89,6 +89,7 @@
   height: 350px;
 }
 
+
 .ejercicio3__div2_1{
   border: 2px solid $negro;
   background-color: $blanco;
@@ -374,4 +375,13 @@ margin-left: 220px;
 .ejercicio9_h34{
   margin-left: 210px;
   margin-top: 278px;
+}
+
+//Ejercicio10
+
+.ejercicio10_img{
+  background-image: url("../img/chapel-4245437_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
 }

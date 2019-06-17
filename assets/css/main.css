@@ -9916,6 +9916,18 @@ p {
   margin-bottom: 27px;
 }
 
+.ejercicio9_nav {
+  left: 1261px;
+  position: absolute;
+  top: 26px;
+}
+
+.ejercicio99_nav {
+  left: 415px;
+  position: absolute;
+  top: 26px;
+}
+
 .ejercicio10_img {
   height: 900px;
 }
@@ -10310,6 +10322,7 @@ p {
 }
 
 .ejercicio9_h1 {
+  top: 1px;
   position: absolute;
   font-weight: 700;
   font-size: 14rem;
@@ -10360,10 +10373,11 @@ p {
 
 .ejercicio9_div33 {
   position: absolute;
-  background-color: rgba(147, 191, 220, 0.6);
-  width: 200px;
-  height: 200%;
-  left: 300px;
+  background-color: rgba(147, 191, 220, 0.3);
+  width: 138px;
+  height: 100%;
+  left: 125px;
+  z-index: 1;
 }
 
 .ejercicio9_h33 {
@@ -10378,6 +10392,7 @@ p {
   padding-left: 4rem;
   padding-top: 1rem;
   color: #e74c3c;
+  top: 10px;
 }
 
 .ejercicio9_div11 {

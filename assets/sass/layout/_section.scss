@@ -297,6 +297,7 @@ margin-left: 220px;
 }
 
 .ejercicio9_h1{
+  top: 1px;
   position: absolute;
   font-weight: $bold;
   font-size: 14rem;
@@ -347,10 +348,11 @@ margin-left: 220px;
 
 .ejercicio9_div33{
   position: absolute;
-  background-color: rgba(147,191,220,0.6);
-  width: 200px;
-  height: 200%;
-  left: 300px
+  background-color: rgba(147,191,220,0.3);
+  width: 138px;
+  height: 100%;
+  left: 125px;
+  z-index: 1;
 }
 
 .ejercicio9_h33{
@@ -365,6 +367,7 @@ margin-left: 220px;
   padding-left: 4rem;
   padding-top: 1rem;
   color: $rojo;
+  top: 10px;
 }
 
 .ejercicio9_div11{
